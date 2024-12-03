@@ -42,15 +42,15 @@ I am a beginner web developer with a strong understanding of web-related technol
 
 ### Frontend Projects
 
-- [Project-1: Single-Page CV](.Web-Development/Frontend-roadmap.sh/Single-Page-CV/README.md)
-- [Project-2: Basic HTML Website](.Web-Development/Frontend-roadmap.sh/Basic-HTML-Website/README.md)
-- [Project-3: Personal Portfolio](.Web-Development/Frontend-roadmap.sh/Portfolio-Website/README.md)
+- [Project-1: Single-Page CV](https://github.com/Omii1908/web-development/blob/main/Frontend-roadmap.sh/Single-Page-CV/README.md)
+- [Project-2: Basic HTML Website](https://github.com/Omii1908/web-development/blob/main/Frontend-roadmap.sh/Basic-HTML-Website/README.md)
+- [Project-3: Personal Portfolio](https://github.com/Omii1908/web-development/blob/main/Frontend-roadmap.sh/Portfolio-Website/README.md)
 
 ### Backend Projects
 
-- [Project-1: Task Tracker](.Web-Development/Backend-roadmap.sh/Task-Tracker/README.md)
-- [Project-2: GitHub User Activity](.Web-Development/Backend-roadmap.sh/GitHub-User-Activity/README.md)
-- [Project-3: Expense Tracker](.Web-Development/Backend-roadmap.sh/Expense-Tracker/README.md)
+- [Project-1: Task Tracker](https://github.com/Omii1908/web-development/blob/main/Backend-roadmap.sh/Task-Tracker/README.md)
+- [Project-2: GitHub User Activity](https://github.com/Omii1908/web-development/blob/main/Backend-roadmap.sh/GitHub-User-Activity/README.md)
+- [Project-3: Expense Tracker](https://github.com/Omii1908/web-development/blob/main/Backend-roadmap.sh/Expense-Tracker/README.md)
 
 ---
 
