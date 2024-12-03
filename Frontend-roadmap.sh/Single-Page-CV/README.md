@@ -17,8 +17,5 @@ This project focuses on creating a structured, single-page CV using only HTML. I
 3. Use semantic HTML tags and include meta and OG tags.
 4. View the file in a browser.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Thanks to [Roadmap.sh](https://roadmap.sh/projects/single-page-cv) for the inspiration.
