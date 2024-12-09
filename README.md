@@ -45,6 +45,8 @@ I am a beginner web developer with a strong understanding of web-related technol
 - [Project-1: Single-Page CV](https://github.com/Omii1908/web-development/blob/main/Frontend-roadmap.sh/Single-Page-CV/README.md)
 - [Project-2: Basic HTML Website](https://github.com/Omii1908/web-development/blob/main/Frontend-roadmap.sh/Basic-HTML-Website/README.md)
 - [Project-3: Personal Portfolio](https://github.com/Omii1908/web-development/blob/main/Frontend-roadmap.sh/Portfolio-Website/README.md)
+- [Project-4: Personal Portfolio](https://github.com/Omii1908/web-development/blob/main/Frontend-roadmap.sh/Changelog-Component/README.md)
+- [Project-n: Personal Portfolio](https://github.com/Omii1908/web-development/blob/main/Frontend-roadmap.sh/Netflix-Clone/README.md)
 
 ### Backend Projects
 
