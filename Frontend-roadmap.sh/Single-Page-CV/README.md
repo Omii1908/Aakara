@@ -11,7 +11,7 @@ This project focuses on creating a structured, single-page CV using only HTML. I
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/single-page-cv.git
+   git clone url
    ```
 2. Open `index.html` and add your details.
 3. Use semantic HTML tags and include meta and OG tags.
