@@ -34,8 +34,8 @@ The following tools and technologies form the foundation of this journey:
 ## 🤝 Connect With Me
 I am eager to collaborate, share knowledge, and grow as part of the web development community. Feel free to connect:
 
-- **GitHub:** [Your GitHub Profile](#)
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **GitHub:** [Omii1908]( https://github.com/Omii1908 )
+- **LinkedIn:** [Omii844198 ](#)
 
 ---
 
